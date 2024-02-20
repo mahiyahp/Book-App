@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #bca37f;
+  padding: 0px 20px;
+  margin-bottom: 80px;
+  border-radius: 10px;
+}
+.header a {
+  text-decoration: none;
+  color: #113946;
+  font-weight: 400;
+  font-size: 1.1rem;
+}
+.footer {
+  text-align: center;
+  background-color: #bca37f;
+  padding: 20px;
+  margin-top: 80px;
+  border: 10px;
+  border-radius: 10px;
+}
+
+.logo {
+  padding: 1%;
+  width: 100px;
+  height: 100px;
+}
