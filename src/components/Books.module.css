@@ -9,10 +9,11 @@
   flex: 1 1 0;
   height: fit-content;
   padding: 14px;
-  background-color: #bca37f;
+  background-color: #e0c09757;
   border-radius: 10px;
   margin-left: 20px;
 }
 .favorite h4 {
   font-size: 1.2rem;
+  color: #e0c097;
 }

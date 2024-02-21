@@ -2,20 +2,20 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #bca37f;
+  background-color: #5c3d2e;
   padding: 0px 20px;
   margin-bottom: 80px;
   border-radius: 10px;
 }
 .header a {
   text-decoration: none;
-  color: #113946;
-  font-weight: 400;
+  color: #b85c38;
+  font-weight: 600;
   font-size: 1.1rem;
 }
 .footer {
   text-align: center;
-  background-color: #bca37f;
+  background-color: #5c3d2e;
   padding: 20px;
   margin-top: 80px;
   border: 10px;
